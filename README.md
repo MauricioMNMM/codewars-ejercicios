@@ -1,3 +1,3 @@
 # Coding Challenges JavaScript
 
-Estos son ejercicios realizados en JavaScript(Codellegue)
+Estos son ejercicios puestos en CodeWars realizados en JavaScript(Codellegue)
